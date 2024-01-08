@@ -67,6 +67,31 @@
             </div>
         </fieldset>
     </form>
+	
+	<form class="form-horizontal" th:method="PUT">
+		<fieldset>
+			<legend>Contact to Update</legend>
+			<div class="form-group">
+				<label for="name" class="col-lg-2 control-label">Name</label>
+				<div class="col-lg-10">
+					<input type="text" autofocus="autofocus" name="name" title="Name" class="form-control"
+					       id="nameToChange"/>
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="number" class="col-lg-2 control-label">Number</label>
+				<div class="col-lg-10">
+					<input type="text" autofocus="autofocus" name="number" title="Number" class="form-control"
+					       id="numberToChange"/>
+				</div>
+			</div>
+			<div class="form-group">
+				<div class="col-lg-10 col-lg-offset-2">
+					<button type="submit" class="btn btn-primary">Update</button>
+				</div>
+			</div>
+		</fieldset>
+	</form>
 
     <hr/>
 
