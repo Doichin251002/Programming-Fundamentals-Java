@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f441c29-e49a-4b03-97d3-170a9a097747" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../phonebook/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/src/main/java/phonebook/PhonebookApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/src/main/java/phonebook/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/src/main/java/phonebook/entity/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/src/main/resources/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/src/test/java/phonebook/PhonebookApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/target/classes/phonebook/PhonebookApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/target/classes/phonebook/controller/ContactController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/target/classes/phonebook/entity/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/target/classes/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook/target/test-classes/phonebook/PhonebookApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2agQb2yqCoVpJCSKGajR0jP07CI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/IDE/GitHub Repos/Programming-Fundamentals-Java/Basic Web Project/phonebook1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "f0249d1970d98e6214abce6cf5a49dff",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="phonebook.controller" />
+      <recent name="phonebook.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PhonebookApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="phonebook" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="phonebook.PhonebookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f441c29-e49a-4b03-97d3-170a9a097747" name="Changes" comment="" />
+      <created>1704737812923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704737812923</updated>
+      <workItem from="1704737813884" duration="2435000" />
+      <workItem from="1704744007466" duration="4345000" />
+      <workItem from="1704796176179" duration="454000" />
+      <workItem from="1704796643634" duration="131000" />
+      <workItem from="1704796789763" duration="103000" />
+      <workItem from="1704796905020" duration="117000" />
+      <workItem from="1704797040812" duration="621000" />
+      <workItem from="1704797817844" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

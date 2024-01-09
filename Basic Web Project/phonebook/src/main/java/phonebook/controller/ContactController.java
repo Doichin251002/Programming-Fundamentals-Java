@@ -7,15 +7,14 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.servlet.ModelAndView;
 import phonebook.entity.Contact;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 @Controller("/")
 public class ContactController {
-    private List<Contact> contacts;
+    private Set<Contact> contacts;
 
     public ContactController() {
-        this.contacts = new ArrayList<>();
+        this.contacts = new TreeSet<>(Comparator.comparing(Contact::getName));
     }
 
     @GetMapping
